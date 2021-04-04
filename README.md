@@ -2,4 +2,4 @@
 
 ### 논문 목록
 
-1. [신체행동 EMA 연구 시 고려할 점들](https://jup014.github.io/HealthBehavior_ArticleSummary/Apr2021/Degroote(2020)) (Degroote et al., 2021)
+1. [신체행동 EMA 연구 시 고려할 점들](https://jup014.github.io/HealthBehavior_ArticleSummary/Apr2021/Degroote(2020)) (Degroote et al., 2020)
