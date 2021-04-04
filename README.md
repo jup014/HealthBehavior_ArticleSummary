@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 강행동 논문 요약 블로그
 
-You can use the [editor on GitHub](https://github.com/jup014/HealthBehavior_ArticleSummary/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 논문 목록
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jup014/HealthBehavior_ArticleSummary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 신체행동 EMA 연구 시 고려할 점들
+  - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
