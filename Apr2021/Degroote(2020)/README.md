@@ -12,7 +12,7 @@
 # 주요내용
 ## 연구설계
 - 체계적리뷰임. EMA를 사용하여 신체활동을 연구한 30개 논문을 분석하여, 각 논문이 EMA에 대해 얼마나 잘 출판시에 설명했는지를 검토함. 나아가 이에 더하여 잘 설명된 EMA에 대해서 검토기준을 제안함 (PROSPERO 등록번호 [CRD42017077996](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=77996))
-> (Physical*-activ* OR Physical-exercise OR exercise OR MVPA OR moderate-to-vigorous-physical-activity) OR (Sedentar* OR Sitting OR Physical*-inactiv* OR Screen-time OR Screentime OR Television OR TV OR Video-game OR Video-games OR Videogame* OR Gaming OR Computer-use OR Computer-time) AND (EMA OR Ecological-Momentary-Assessment OR Diary-Study OR Diaries OR Ambulatory-assessment OR Ambulatory-Monitoring OR ESM OR Experience-Sampling-Method OR Electronic-Diary OR Computer-Assisted-Diary OR Electronic-Momentary-Assessment)
+      > 검색 키워드 : (Physical*-activ* OR Physical-exercise OR exercise OR MVPA OR moderate-to-vigorous-physical-activity) OR (Sedentar* OR Sitting OR Physical*-inactiv* OR Screen-time OR Screentime OR Television OR TV OR Video-game OR Video-games OR Videogame* OR Gaming OR Computer-use OR Computer-time) AND (EMA OR Ecological-Momentary-Assessment OR Diary-Study OR Diaries OR Ambulatory-assessment OR Ambulatory-Monitoring OR ESM OR Experience-Sampling-Method OR Electronic-Diary OR Computer-Assisted-Diary OR Electronic-Momentary-Assessment)
 - 
 # Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
