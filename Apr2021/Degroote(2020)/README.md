@@ -9,12 +9,14 @@
 - **앉거나 일어서는 행동 (Sedentary Movement, SM)** 
 - **내용 타당도 (Content Validity)** : 측정방법이 측정하고자 하는 대상을 진짜 잘 측정하는지에 대한 척도
 
-
+---
 # 주요내용
 ## 연구설계
 - 체계적리뷰. EMA를 사용하여 신체활동을 연구한 30개 논문을 분석하여, 각 논문이 EMA에 대해 얼마나 잘 출판시에 설명했는지를 검토함. 나아가 이에 더하여 잘 설명된 EMA에 대해서 검토기준을 제안함 (PROSPERO 등록번호 [CRD42017077996](https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=77996))
   > **검색 키워드**
   > (Physical*-activ* OR Physical-exercise OR exercise OR MVPA OR moderate-to-vigorous-physical-activity) OR (Sedentar* OR Sitting OR Physical*-inactiv* OR Screen-time OR Screentime OR Television OR TV OR Video-game OR Video-games OR Videogame* OR Gaming OR Computer-use OR Computer-time) AND (EMA OR Ecological-Momentary-Assessment OR Diary-Study OR Diaries OR Ambulatory-assessment OR Ambulatory-Monitoring OR ESM OR Experience-Sampling-Method OR Electronic-Diary OR Computer-Assisted-Diary OR Electronic-Momentary-Assessment)
+
+---
 
 ## 도입
 1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요.[1,2,3,4] 그러나 많은 사람들이 PA 권장사항을 충족하지 않음. [5,6,7]
@@ -30,12 +32,16 @@
         - **내용 유효성** : 측정하고자 하는 construct의 전체적인 측면을 빠짐없이 대변하는지[28]
     2. 내용 유효성은 자주 빠뜨리지만, 가장 중요한 유형의(Quintessential) 유효성임. 이 리뷰는 내용유효성에 집중함
 
-## Method
+---
+
+## 연구방법
 1. EMA를 사용해서 PA/SM를 연구하는 연구
 2. 그들 중 전자적인 기기를 활용해 EMA를 하는 연구
 3. 그들 중 건강한 전연령 사람들을 대상으로 하는 연구
 4. 그들 중 영어로 출판된 연구
 => **30개 남음**
+
+---
 
 ## 결과
 > 보고방법을 분석한 체계적 검토 논문인 만큼, 분석대상 논문들에서 나타난 사례들을 소개하고 이에 대한 시사점을 기술하는 방식으로 기술됨.
@@ -75,6 +81,8 @@
 ### 4. EMA 완료율
 * 주요사례 : 95%의 연구가 완료율을 부분적이나마 보고함. 평균 이수율은 77%. 완료율을 끌어올리기 위한 인센티브로는 금전, 기프트카드, 쿠폰, PA결과 요약제공, 학점(!). 40%는 인센티브에 관한 서술을 하지 않음 (인센티브가 없었다는 뜻이 아님). 단일평가를 완료하는 데 걸리는 시간은 5분 이내. 45%만 EMA 교육을 실시했음. 15%는 테스트기간을 통해 참여자를 교육했음. 15%는 일회성 테스트를 제공함. 5%만이 사용자의 이해도를 평가함.
 
+---
+
 ## 토론
 ### 내용유효성 평가
 * 내용 유효성 평가는 매우 중요함. 그러나 대부분의 연구에서 제시되지 않거나 실시되지 않음
@@ -95,12 +103,16 @@
 * 회상 기준점은 짧게 잡고, 한두번 리마인더를 보낸 뒤 일정 시간 답이 없으면 먼저 보낸 EMA를 비활성화시키는 것이 필요함
 * 완료율 데이터는 자세히 보고해야 함. 
 
+---
+
 ### 최종 권장사항
 > 1. 내용 유효성을 검증하라
 > 2. COSMIN 체크리스트를 활용하라
 > 3. 특정 샘플링 전략과 방식(시간, 빈도, 기간, 일수)을 선택한 근거를 보고하라
 > 4. 회상기간을 신중하게 정하고 리마인더 및 비활성화 기능을 구현하라
 > 5. 완료율을 반드시 보고하라
+
+---
 
 ## Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
