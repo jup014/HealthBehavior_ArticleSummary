@@ -25,8 +25,24 @@
     1. **시간샘플링** : 매일 고정된 시간 또는 임의의 시간에 보고하라는 메시지를 반복적으로 받는 경우 (ex: 좋은아침입니다. 기분이 어떠신가요?) 
     2. **이벤트샘플링** : 특정 사건에 의해 보고하라는 메시지가 트리거되는 경우 (ex: 방금 하신 운동은 어떠셨나요?) [22]
 6. EMA 사용 시의 도전(challenge):
-    1. 특정 요소(Construct)를 측정하기 위한 질문항목의 유효성(Validity)을 신중하게 고려해야 함. 특히 유념해야 할 것은 ***구성요소 유효성(Construct Validity)***과 ***내용 유효성(Content Validity)***임.
-        1. 구성요소 유효성
+    1. 특정 요소(Construct)를 측정하기 위한 질문항목의 유효성(Validity)을 신중하게 고려해야 함. 특히 유념해야 할 것은 구성요소 유효성(Construct Validity)과 내용 유효성(Content Validity)임.
+        - **구성요소 유효성** : 측정하고자 하는 construct와 측정도구가 얼마나 상관관계가 있는지[27]
+        - **내용 유효성** : 측정하고자 하는 construct의 전체적인 측면을 빠짐없이 대변하는지[28]
+    2. 내용 유효성은 자주 빠뜨리지만, 가장 중요한 유형의(Quintessential) 유효성임. 이 리뷰는 내용유효성에 집중함
 
-# Citation
+## Method : 세부내용 생략
+1. EMA를 사용해서 PA/SM를 연구하는 연구
+2. 그들 중 전자적인 기기를 활용해 EMA를 하는 연구
+3. 그들 중 건강한 전연령 사람들을 대상으로 하는 연구
+4. 그들 중 영어로 출판된 연구
+=> **30개 남음**
+
+## 결과
+> 보고방법을 분석한 체계적 검토 논문인 만큼, 분석대상 논문들에서 나타난 사례들을 소개하고 이에 대한 시사점을 기술하는 방식으로 기술됨.
+> 따라서 본 요약에서도 구체적인 것은 생략하되, **주요 사례**와 **시사점**을 정리하였음
+### 1. 내용 유효성 Content Validity
+#### A. 행동과 상관관계 측정
+* 
+
+## Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
