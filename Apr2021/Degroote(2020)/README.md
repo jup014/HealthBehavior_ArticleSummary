@@ -1,7 +1,7 @@
 # 논문
 - Content validity and methodological considerations in ecological momentary assessment studies on physical  activity and sedentary behaviour: a systematic review
 - 신체활동 및 좌식행동에 관한 생태순간평가(Ecological Momentary Assessment, EMA) 연구에서의 내용 타당도(Content Validity) 및 방법론적 고려 : 체계적 검토
-- 풀텍스트 링크(https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-020-00932-9)
+- [풀텍스트 링크](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-020-00932-9)
 
 # 용어
 - **생태순간평가 (Ecological Momentary Assessment, EMA)** : 생태학적 관점에서, 순간순간에 따라 변하는 연구대상의 상황을 질답의 형태로 물어봐서 측정하는 방법. 보통 모바일이나 IT기기를 활용하여 측정함
