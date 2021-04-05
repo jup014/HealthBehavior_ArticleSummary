@@ -17,7 +17,8 @@
 
 ## 도입 및 배경 Introduction & Background
 1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요[1,2,3,4]
-2. 
+2. 그러나 많은 사람들이 PA 권장사항을 충족하지 않음 [5,6,7]
+3. 
 
 # Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
