@@ -4,7 +4,7 @@
 - [풀텍스트 링크](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-020-00932-9), [PDF 링크](https://ijbnpa.biomedcentral.com/track/pdf/10.1186/s12966-020-00932-9.pdf), [레퍼런스 링크](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-020-00932-9#Bib1)
 
 # 저자
-* **Ghent University, Ghent, Belgium** - L. Degroote, A. DeSmet, I. De Bourdeaudhuij, G. Crombez & D. Van Dyck - 
+* **Ghent University, Ghent, Belgium** - L. Degroote, A. DeSmet, I. De Bourdeaudhuij, G. Crombez & D. Van Dyck
 * **Research Foundation Flanders, Brussels, Belgium** - L. Degroote & A. DeSmet
 
 # 용어
