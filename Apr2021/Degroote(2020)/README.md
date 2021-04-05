@@ -16,9 +16,10 @@
   > (Physical*-activ* OR Physical-exercise OR exercise OR MVPA OR moderate-to-vigorous-physical-activity) OR (Sedentar* OR Sitting OR Physical*-inactiv* OR Screen-time OR Screentime OR Television OR TV OR Video-game OR Video-games OR Videogame* OR Gaming OR Computer-use OR Computer-time) AND (EMA OR Ecological-Momentary-Assessment OR Diary-Study OR Diaries OR Ambulatory-assessment OR Ambulatory-Monitoring OR ESM OR Experience-Sampling-Method OR Electronic-Diary OR Computer-Assisted-Diary OR Electronic-Momentary-Assessment)
 
 ## 도입 및 배경 Introduction & Background
-1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요[1,2,3,4]
-2. 그러나 많은 사람들이 PA 권장사항을 충족하지 않음 [5,6,7]
-3. 
+1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요.[1,2,3,4] 그러나 많은 사람들이 PA 권장사항을 충족하지 않음. [5,6,7]
+2. 많은 건강행동 관련 이론은 건강행동이 개인과 맥락적 요인 사이의 상호작용의 결과라고 가정함.[8,9,10] 따라서 이러한 맥락을 고려한 분석은 행동에 대한 깊은 이해를 제공할 수 있음.[11,12,13] 그러나 이러한 분석은 어려운게, 시간에 따라 그때그때 바뀜 [14,15,16] 따라서 바로바로 측정할 필요가 있음
+3. 고전적인 연구에서는 관찰의 마지막 단계에서 활동수준과 결정요인을 반영하는 자기보고 설문지(Self-report survey)를 활용하여 조사함.[17] 그러나 이는 회상편견(recall bias)의 우려가 있음 [18,19,20] 또한 스스로 답변을 "집계"하는 방식으로 하게 되기 때문에, 시간과 맥락에 따른 변화는 종종 무시됨.
+4. 
 
 # Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
