@@ -25,7 +25,8 @@
     1. **시간샘플링** : 매일 고정된 시간 또는 임의의 시간에 보고하라는 메시지를 반복적으로 받는 경우 (ex: 좋은아침입니다. 기분이 어떠신가요?) 
     2. **이벤트샘플링** : 특정 사건에 의해 보고하라는 메시지가 트리거되는 경우 (ex: 방금 하신 운동은 어떠셨나요?) [22]
 6. EMA 사용 시의 도전(challenge):
-    1. 
+    1. 특정 요소(Construct)를 측정하기 위한 질문항목의 유효성(Validity)을 신중하게 고려해야 함. 특히 유념해야 할 것은 ***구성요소 유효성(Construct Validity)***과 ***내용 유효성(Content Validity)***임.
+        1. 구성요소 유효성
 
 # Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
