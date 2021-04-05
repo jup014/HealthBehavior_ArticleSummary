@@ -16,7 +16,7 @@
   > **검색 키워드**
   > (Physical*-activ* OR Physical-exercise OR exercise OR MVPA OR moderate-to-vigorous-physical-activity) OR (Sedentar* OR Sitting OR Physical*-inactiv* OR Screen-time OR Screentime OR Television OR TV OR Video-game OR Video-games OR Videogame* OR Gaming OR Computer-use OR Computer-time) AND (EMA OR Ecological-Momentary-Assessment OR Diary-Study OR Diaries OR Ambulatory-assessment OR Ambulatory-Monitoring OR ESM OR Experience-Sampling-Method OR Electronic-Diary OR Computer-Assisted-Diary OR Electronic-Momentary-Assessment)
 
-## 도입 및 배경 Introduction & Background
+## 도입
 1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요.[1,2,3,4] 그러나 많은 사람들이 PA 권장사항을 충족하지 않음. [5,6,7]
 2. 많은 건강행동 관련 이론은 건강행동이 개인과 맥락적 요인 사이의 상호작용의 결과라고 가정함.[8,9,10] 따라서 이러한 맥락을 고려한 분석은 행동에 대한 깊은 이해를 제공할 수 있음.[11,12,13] 그러나 이러한 분석은 어려운게, 시간에 따라 그때그때 바뀜 [14,15,16] 따라서 바로바로 측정할 필요가 있음
 3. 고전적인 연구에서는 관찰의 마지막 단계에서 활동수준과 결정요인을 반영하는 자기보고 설문지(Self-report survey)를 활용하여 조사함.[17] 그러나 이는 회상편견(recall bias)의 우려가 있음 [18,19,20] 또한 스스로 답변을 "집계"하는 방식으로 하게 되기 때문에, 시간과 맥락에 따른 변화는 종종 무시됨.
@@ -30,7 +30,7 @@
         - **내용 유효성** : 측정하고자 하는 construct의 전체적인 측면을 빠짐없이 대변하는지[28]
     2. 내용 유효성은 자주 빠뜨리지만, 가장 중요한 유형의(Quintessential) 유효성임. 이 리뷰는 내용유효성에 집중함
 
-## Method : 세부내용 생략
+## Method
 1. EMA를 사용해서 PA/SM를 연구하는 연구
 2. 그들 중 전자적인 기기를 활용해 EMA를 하는 연구
 3. 그들 중 건강한 전연령 사람들을 대상으로 하는 연구
@@ -40,6 +40,7 @@
 ## 결과
 > 보고방법을 분석한 체계적 검토 논문인 만큼, 분석대상 논문들에서 나타난 사례들을 소개하고 이에 대한 시사점을 기술하는 방식으로 기술됨.
 > 따라서 본 요약에서도 구체적인 것은 생략하되, **주요 사례**와 **시사점**을 정리하였음
+
 ### 1. 내용 유효성 Content Validity
 #### A. 행동과 상관관계 측정
 * 
