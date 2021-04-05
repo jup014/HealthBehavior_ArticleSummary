@@ -6,6 +6,7 @@
 # 용어
 - **생태순간평가 (Ecological Momentary Assessment, EMA)** : 생태학적 관점에서, 순간순간에 따라 변하는 연구대상의 상황을 질답의 형태로 물어봐서 측정하는 방법. 보통 모바일이나 IT기기를 활용하여 측정함
 - **신체활동 (Physical Activity, PA)** : 몸을 움직이는 행동 전체. 우리말에서의 "운동"과 비슷
+- **앉거나 일어서는 행동 (Sedentary Movement, SM)** 
 - **내용 타당도 (Content Validity)** : 측정방법이 측정하고자 하는 대상을 진짜 잘 측정하는지에 대한 척도
 
 
@@ -19,7 +20,12 @@
 1. PA는 심장질환, 뇌졸중, 당뇨병, 유방암, 결장암의 예방 및 치료에서 중요.[1,2,3,4] 그러나 많은 사람들이 PA 권장사항을 충족하지 않음. [5,6,7]
 2. 많은 건강행동 관련 이론은 건강행동이 개인과 맥락적 요인 사이의 상호작용의 결과라고 가정함.[8,9,10] 따라서 이러한 맥락을 고려한 분석은 행동에 대한 깊은 이해를 제공할 수 있음.[11,12,13] 그러나 이러한 분석은 어려운게, 시간에 따라 그때그때 바뀜 [14,15,16] 따라서 바로바로 측정할 필요가 있음
 3. 고전적인 연구에서는 관찰의 마지막 단계에서 활동수준과 결정요인을 반영하는 자기보고 설문지(Self-report survey)를 활용하여 조사함.[17] 그러나 이는 회상편견(recall bias)의 우려가 있음 [18,19,20] 또한 스스로 답변을 "집계"하는 방식으로 하게 되기 때문에, 시간과 맥락에 따른 변화는 종종 무시됨.
-4. 
+4. 따라서 **EMA가 PA, SM 관련 행동 및 결정요인을 측정하기 위해 많이 사용됨**
+5. EMA는 두 가지 방법으로 사용자 응답을 트리거링함
+    1. **시간샘플링** : 매일 고정된 시간 또는 임의의 시간에 보고하라는 메시지를 반복적으로 받는 경우 (ex: 좋은아침입니다. 기분이 어떠신가요?) 
+    2. **이벤트샘플링** : 특정 사건에 의해 보고하라는 메시지가 트리거되는 경우 (ex: 방금 하신 운동은 어떠셨나요?) [22]
+6. EMA 사용 시의 도전(challenge):
+    1. 
 
 # Citation
 - Degroote, L., Desmet, A., De Bourdeaudhuij, I., Van Dyck, D., & Crombez, G. (2020). Content validity and methodological considerations in ecological momentary assessment studies on physical activity and sedentary behaviour: A systematic review. In International Journal of Behavioral Nutrition and Physical Activity (Vol. 17, Issue 1, p. 35). BioMed Central Ltd. https://doi.org/10.1186/s12966-020-00932-9
