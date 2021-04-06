@@ -11,24 +11,25 @@
 # 용어
 - **생태순간평가 (Ecological Momentary Assessment, EMA)** : 생태학적 관점에서, 순간순간에 따라 변하는 연구대상의 상황을 질답의 형태로 물어봐서 측정하는 방법. 보통 모바일이나 IT기기를 활용하여 측정함
 - **외래평가(Ambulatory Assessment, AA)** : 생리학적 상태에 대한 연속적, 혹은 거의 연속적인 모니터링을 뜻함. 주관적 상태나 맥락에 대한 일기 형식의 보고 (적절한 국문용어를 못 찾겠음)
-- **신뢰도(reliability)** : 일관성. 측정도구가 내부적으로 일관되거나 시간이 흐름에 따라 안정적인지
+- **신뢰도(reliability)** : 일관성. 측정도구가 내부적으로 일관되거나 시간이 흐름에 따라 안정적인지 등
 - **일시적 오차(Transient error)** : 특정 측정시점에만 존재하는 요소로 인해 발생하는 체계적 측정 오류를 의미 (예: 성격측정시에 기분이 영향을 미치는 경우)
 
 ---
 
 # 주요내용
 ## 도입
-1. 심리측정 연구에서 신뢰도(reliability)는 엄격하게 평가되지 않는 경우가 있음.
+1. 일반적인 심리측정 연구에서 신뢰도(reliability)는 엄격하게 평가되지 않는 경우가 있음.
     - 예를 들어, test-retest설계에서만 측정가능한 **일시적 오차(Transient Error)** 가 보통 엄청 중요한데, 연구자들이 Coefficient alpha에만 너무 의존.
     - test-retest 데이터가 수집되더라도 엄밀하게 해석되지 않는 경우도 있음. 실험 규모나 test-retest 간 간격에 관계없이 심리학자들이 자주 신뢰도가 높다고 주장하는 경우가 많음(!)
-2. AA도 나름의 문제점이 있음.
-    - 사람 내 신뢰도(within-person reliability) 추정을 안 한다거나 (Shrout & Lane, 2013; Nezlek, 2013, 2017), 실험실 환경보다 너무 적은 질문 수를 물을 수 밖에 없는 환경이 애로사항임(Gibbons, 2017; Sliwinski et al., 2018).
+2. 한편, 최근 많이 쓰이기 시작한 AA도 나름의 문제점이 있음.
+    - 종전의 방법에만 익숙해져 있는 연구자들이 사람 내 신뢰도(within-person reliability) 추정을 안 한다는 점(Shrout & Lane, 2013; Nezlek, 2013, 2017)
+    - 종전의 방법에 비해 너무 적은 질문 수를 물을 수 밖에 없는 환경(Gibbons, 2017; Sliwinski et al., 2018).
 
 ---
 
 ## 자기보고측정(Self-Report Measures)의 신뢰도(Reliability)
-1. 일시적 오차는 측정치의 최대 25%까지 나타남(Chmielewski & Watson, 2009). 따라서 시간변화에 따른 출렁임에 관심이 있는 AA의 경우 이 일시적 오차에 대한 유의미한 측정을 할 수도 있음.
-    - 그러나 연구자들은 보통 문항을 뽑아서 쓰는 형태로 작업을 하고, 따라서 지식축적이 어려운 측면이 있음. 신뢰도에 대한 보고도 하지 않음(Dubad, Winsper, Meyer, Livanou, & Marwaha, 2018).
+1. 일시적 오차는 측정치의 최대 25%까지 나타남(Chmielewski & Watson, 2009). 따라서 시간변화에 따른 fluctuation을 측정할 수 있는 도구인 AA의 경우 이 일시적 오차에 대한 유의미한 측정을 할 수도 있음.
+    - 그러나 연구자들은 문항을 연구 때마다 다르게 작성해서 측정을 하는 바람에, 지식축적이 어려운 측면이 있음. 또, 신뢰도에 대한 보고도 하지 않음(Dubad, Winsper, Meyer, Livanou, & Marwaha, 2018).
 2. coefficient alpha와 같은 신뢰도 측정방법은 문항의 개수 및 평균 항목간 상관관계계수에 관련되어 있음 (Cronbach, 1951). 
     - 보통 자기보고 시 3개 이상의 항목을 할 것을 요구받음 (Carpenter, Wycoff, & Trull, 2016; Nezlek, 2013; Shrout & Lane, 2013). 따라서 이보다 적으면 신뢰도가 위험해짐.
 3. 한편, 응답부담을 최소화하기 위해, 보통 연구자들은 **제일 상관관계가 높은 항목만**을 남겨 항목 개수를 줄임
@@ -49,9 +50,10 @@
 
 ## 객관적 신체활동 측정(Objective Physical Measures)의 신뢰도
 1. 객관적 측정은 신뢰도를 많이 살핀 편임
-    - 동일한 기계적인 움직임에 대해 신뢰도를 평가한 연구(e.g., Silva, Mota, Esliger, & Welk, 2010; Tryon, Pinto, & Morrison, 1991)에서, 종전의 test-retest 방법과 같은 신뢰도 수치는 낮게 나옴. 그러나 overall agreement와 같은 대안적인 지표는 좋게 나옴.
-2. 장치를 하나 이상 차거나 같은 곳을 여러번 걷는 연구 (Schneider, Crouter, Lukajic, & Bassett, 2003; Steeves et al., 2011), 동일한 운동을 여러번 하면서 생리학적 측정을 하는 연구 (Johnstone et al., 2012; Kent et al., 2009).
-3. 동일한 측정상황에 대해선 높은 신뢰도를 보였지만, 장치 간에는 불일치를 보임 (Tudor-Locke, Bassett, Shipe, & McClain, 2011).
+    - 동일한 기계적인 움직임에 대해 신뢰도를 평가한 연구(e.g., Silva, Mota, Esliger, & Welk, 2010; Tryon, Pinto, & Morrison, 1991)에서, 종전의 test-retest 방법과 같은 신뢰도 수치는 낮게 나옴. 
+    - 그러나 overall agreement와 같은 대안적인 지표는 좋게 나옴.
+2. 장치를 하나 이상 착용하거나 같은 곳을 여러번 걷는 연구 (Schneider, Crouter, Lukajic, & Bassett, 2003; Steeves et al., 2011), 동일한 운동을 여러번 하면서 생리학적 측정을 하는 연구 (Johnstone et al., 2012; Kent et al., 2009) 등이 있음
+3. 동일한 측정상황에 대해선 높은 신뢰도를 보였지만, 여러 장치 간에는 불일치를 보임 (Tudor-Locke, Bassett, Shipe, & McClain, 2011).
 4. 요일, 계절도 운동량에 영향을 주었음 (Tudor-Locke et al., 2004). 이러한 변동성을 고려하여, 몇 번의 측정이 월간/연간 운동량을 측정하는 데 적절한 횟수인지에 대한 연구도 진행되었음 (Clemes & Griffiths, 2008; Togo et al., 2008; Wickel & Welk, 2010). 
 
 ---
