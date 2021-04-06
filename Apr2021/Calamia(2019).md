@@ -10,8 +10,8 @@
 
 # 용어
 - **생태순간평가 (Ecological Momentary Assessment, EMA)** : 생태학적 관점에서, 순간순간에 따라 변하는 연구대상의 상황을 질답의 형태로 물어봐서 측정하는 방법. 보통 모바일이나 IT기기를 활용하여 측정함
-- **외래평가(Ambulatory Assessment, AA)** : The term ambulatory assessment is most often used to refer to the continuous or near-continuous monitoring of physiological states, sometimes accompanied by diary reports of subjective states or contexts. (적절한 국문용어를 못 찾겠음)
-- **신뢰도(reliability)** :
+- **외래평가(Ambulatory Assessment, AA)** : 생리학적 상태에 대한 연속적, 혹은 거의 연속적인 모니터링을 뜻함. 주관적 상태나 맥락에 대한 일기 형식의 보고 (적절한 국문용어를 못 찾겠음)
+- **신뢰도(reliability)** : 일관성. 측정도구가 내부적으로 일관되거나 시간이 흐름에 따라 안정적인지
 - **일시적 오차(Transient error)** : 특정 측정시점에만 존재하는 요소로 인해 발생하는 체계적 측정 오류를 의미 (예: 성격측정시에 기분이 영향을 미치는 경우)
 
 ---
