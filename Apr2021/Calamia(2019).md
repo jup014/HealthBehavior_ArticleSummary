@@ -19,7 +19,7 @@
 # 주요내용
 ## 도입
 1. 심리측정 연구에서 신뢰도(reliability)는 엄격하게 평가되지 않는 경우가 있음.
-    - 예를 들어, test-retest설계에서만 측정가능한 **일시적 오차(Transient Error)**가 보통 엄청 중요한데, 연구자들이 Coefficient alpha에만 너무 의존.
+    - 예를 들어, test-retest설계에서만 측정가능한 **일시적 오차(Transient Error)** 가 보통 엄청 중요한데, 연구자들이 Coefficient alpha에만 너무 의존.
     - test-retest 데이터가 수집되더라도 엄밀하게 해석되지 않는 경우도 있음. 실험 규모나 test-retest 간 간격에 관계없이 심리학자들이 자주 신뢰도가 높다고 주장하는 경우가 많음(!)
 2. AA도 나름의 문제점이 있음.
     - 사람 내 신뢰도(within-person reliability) 추정을 안 한다거나 (Shrout & Lane, 2013; Nezlek, 2013, 2017), 실험실 환경보다 너무 적은 질문 수를 물을 수 밖에 없는 환경이 애로사항임(Gibbons, 2017; Sliwinski et al., 2018).
