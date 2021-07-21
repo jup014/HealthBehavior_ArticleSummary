@@ -4,7 +4,7 @@
 1. EMA, AA 등
     1. [신체행동 EMA 연구 시 고려할 점들](https://jup014.github.io/HealthBehavior_ArticleSummary/Apr2021/Degroote(2020)) (Degroote et al., 2020) - 04/04/2021 작성
     2. [Ambulatory Assessment 연구 시 고려할 점들](https://jup014.github.io/HealthBehavior_ArticleSummary/Apr2021/Calamia(2019)) (Calamia, 2019) - 04/05/2021 작성
-2. NLP, Crowdsourcing
+2. NLP, Crowdsourcing, Sentiment Analysis
     1. [크라우드소싱을 이용한 NLP 연구 - 감정 렉시콘 만들기](https://jup014.github.io/HealthBehavior_ArticleSummary/Apr2021/Mohammad(2010)) (Mohammad et al., 2010) - 04/21/2021 작성
 
 ### 분석방법
