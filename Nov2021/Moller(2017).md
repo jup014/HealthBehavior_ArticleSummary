@@ -65,8 +65,15 @@ Using this framework, a theory can be tested on the quality of its prediction fo
   - 그러나 데이터 수집이 비쌌던게 문제임
   - 온라인 사회관계망 분석은 수집비용이 저렴
   - 사회관계망은 건강행동에 큰 영향을 미치고 있는 것으로 보임
+3. 여기서 설명되는 사회관계망 분석은 사회관계망이 
+  - 개인의 건강행동과 결과에 어떻게 영향을 미치는지, 
+  - 주변사람들과의 관계를 어떻게 특징짓는지, 
+  - 이 관계의 속성은 어떠한지, 
+  - 이 속성이 어떻게 해당 개인과 자아에 영향을 미치는 지 등에 대한 실증적인 연구방법을 의미함.
 
-Social network analysis is defined here as the empirical study of how social networks influences individuals’ health behavior and outcomes, and it involves characterizing social relations around the individual (i.e., ties), and how properties of these connections (e.g., tie strength) and characteristics of friends/alters affect the individual/ego. Social network analysis may also involve studying how structural properties of the network (e.g., network density) influence individuals’ health (Latkin & Knowlton, 2015). Social networks are rarely considered in relation to the behavior change pathway, as illustrated in a review of obesity treatment interventions considering social relational constructs (Leroux, Moore, & Dubé, 2013). Among those that do, the pathway under study is most often social support, which is just one of many ways in which social networks exert their influence on individuals’ health (Berkman, Glass, Brissette, & Seeman, 2000). Furthermore, although many interventions may be described as having taken a social network approach, most study the mechanisms connecting social networks to health, and do not conduct true social network analyses (Smith & Christakis, 2008).
+
+
+Social network analysis may also involve studying how structural properties of the network (e.g., network density) influence individuals’ health (Latkin & Knowlton, 2015). Social networks are rarely considered in relation to the behavior change pathway, as illustrated in a review of obesity treatment interventions considering social relational constructs (Leroux, Moore, & Dubé, 2013). Among those that do, the pathway under study is most often social support, which is just one of many ways in which social networks exert their influence on individuals’ health (Berkman, Glass, Brissette, & Seeman, 2000). Furthermore, although many interventions may be described as having taken a social network approach, most study the mechanisms connecting social networks to health, and do not conduct true social network analyses (Smith & Christakis, 2008).
 
 Digital health interventions are especially well suited to true network analysis because they enable the collection of large quantities of social interaction data over time. These data can include participants’ interactions with their existing online connections/friends and/or interactions with others in the intervention. Capturing the digital traces that define online social network interactions enable digital health interventions to map a much larger portion of the social network than has been possible using traditional methods (e.g., via self-report surveys). Passively collected data from digital health interventions also make it easier for researchers to track engagement with communication tools and interactions among participants, potentially facilitating more accurate estimation of intervention effects (Hunter et al., 2015).
 
