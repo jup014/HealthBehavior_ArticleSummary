@@ -75,10 +75,13 @@ Using this framework, a theory can be tested on the quality of its prediction fo
 5. 주요 효과 논문: (Berkman, Glass, Brissette, & Seeman, 2000). 
 6. 제대로 사회관계망 분석을 실시하지 않는 경우가 많음 (Smith & Christakis, 2008).
 7. 디지털 헬스 개입은 대량의 사회관계망 데이터를 시간에 따라서 모을 수 있기 때문에 특히 제대로 된 네트워크 분석에 적합함.
-8. 
-Capturing the digital traces that define online social network interactions enable digital health interventions to map a much larger portion of the social network than has been possible using traditional methods (e.g., via self-report surveys). Passively collected data from digital health interventions also make it easier for researchers to track engagement with communication tools and interactions among participants, potentially facilitating more accurate estimation of intervention effects (Hunter et al., 2015).
-
-Network analyses using data from digital health interventions suggest that many network effects are consistent across online and offline social environments. For instance, recent evidence about the prevention of HIV and reduction of risky sexual behavior suggests that network effects observed in face-to-face trials extend to online settings such as Facebook (Young et al., 2014). Observational studies that have employed true network analyses have also demonstrated that social embeddedness in an online weight loss community affects weight loss (Poncela-Casasnovas et al., 2015), and that friends’ online behaviors (e.g., Facebook posting) affect adolescents’ drinking and smoking behavior (Huang et al., 2014). Digital health interventions that have taken a social network approach but not conducted true network analysis have demonstrated that social support, accountability, and a positive team environment are associated with improved health outcomes, including greater weight loss and increased physical activity over time (Carson et al., 2013; Leahey, Kumar, Weinberg, & Wing, 2012; Maher et al., 2015).
+8. 종전의 사회관계망 분석에 비해 디지털 방법은 전체 사회관계망 중 더 많은 비중을 알아낼 수 있음.
+9. 수동적으로 데이터를 모으는 것이므로, 더 정확한 추정이 가능 (Hunter et al., 2015).
+10. 연구 사례
+  - 온/오프라인 네트워크의 효과는 유사하다는 것을 알 수 있음. HIV연구 사례: (Young et al., 2014). 
+  - 온라인 체중감량 커뮤니티에의 소속이 실제 체중 감량을 가져옴 (Poncela-Casasnovas et al., 2015)
+  - 친구의 온라인 포스팅 등은 청소년의 음주 및 흡연 행동에 영향을 줌 (Huang et al., 2014)
+  - 디지털 헬스 개입 연구 중 진정한 사회관계망 연구를 수행하지 않은 사례에서는 사회적 지지, 의존가능성(?), 긍정적 팀 환경이 건강개선과 관련이 있다는 것을 밝힘 (Carson et al., 2013; Leahey, Kumar, Weinberg, & Wing, 2012; Maher et al., 2015).
 
 Although there is good evidence that online social networks can influence behavioral health, there is currently a dearth of research testing which behavior change techniques (BCTs) related to social interaction can be most effectively employed in digital interventions. In a recent review of how social network technologies were used in online health promotion, just under half of the studies evaluated were grounded in theory, and fewer still described how theories were specifically applied in delivering the intervention (Balatsoukas, Kennedy, Buchan, Powell, & Ainsworth, 2015). Of the 93 BCTs in BCT Taxonomy v1, four relate to social interaction: those focused on social support, social comparison, social incentives, and restructuring of the social environment (Michie et al., 2015; Michie et al., 2014). Interventions could also focus on changing social norms within the network, or encouraging individuals to actively promote behavior change within their network as a strategy for changing their self-identity (Latkin & Knowlton, 2015).
 
