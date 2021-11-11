@@ -93,11 +93,11 @@ Using this framework, a theory can be tested on the quality of its prediction fo
 15. 미래 연구는 어떻게 하면 디지털 헬스 개입의 맥락에서 건강에 관한 긍정적 사회관계망의 잠재성을 극대화하는 것에 초점을 맞추어야 함.
 16. 예시로는
   - 사용자들은 대면 시와 다른 방법으로 상호작용하는 것 같은데, 어떻게 그러한지? (예: Gratification 프레임워크는 소셜미디어의 다양한 기능이 사용자의 사용동기 및 기대효과에 따라 다른 방법으로 사용되는 것 같다고 가정) (Smock, Ellison, Lampe, & Wohn, 2011)
-
-
-
-  - (ii) how human-computer interaction influences social network effects, and (iii) to what extent computer-mediated communication is different from face-to-face communication in producing social network effects. Future work would also benefit from social network data collection that goes beyond individual approaches (i.e., collecting data just on the individual targeted by the intervention), and collects data from others in the participants’ networks (e.g., Facebook friends). This enables the evaluation of how the health and behavior of others (e.g., friends) affects people. Collecting data on others also provides insight as to whether the intervention has spread beyond the participants targeted in the intervention, broadening the public health impact (i.e., social diffusion). However, in research trials, when social diffusion spreads to the control/non-intervention group(s), trials are said to suffer from “contamination.” Contamination may be especially prevalent in digital health interventions that provide opportunities for communication with other participants. A further research question to consider is how structural properties of individuals’ social networks influence behavioral health outcomes. For example, multiple sources of social reinforcement, available within clustered networks, may be necessary for optimizing healthy behavior change (Centola, 2013). These are just a few of the promising research directions for those using social network research methods for the purpose of intervention development and theory testing on digital platforms.
-
+  - 어떻게 인간-컴퓨터 상호작용은 사회적 관계망 효과에 영향을 주는가
+  - 사회적 관계망 효과를 만들어 내는 데 있어서 대면 커뮤니케이션과 컴퓨터가 매개체가 되는 커뮤니케이션은 얼마나 다른가
+17. 개입이 목표하는 개인의 범주를 넘어서서 다른 개인들의 데이터를 수집하는 등 수집 측면에서도 달라질 것임
+  - 이러한 변화는 개입이 대상 이외에도 다른 사람들에게 어떤 효과를 가져오는지, 공중보건적인 함의 등에 대한 연구도 가능하게 할 수 있음
+  - 그러나 교차오염에 대한 고민도 필요
 
 ## 결론
 1. 디지털 기술은 행동변화중재 전달에 있어 패러다임 쉬프트 급의 기회임
